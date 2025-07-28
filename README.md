@@ -6,4 +6,4 @@ Every shape have a different colour as we can see in image.
 Square box is for Blue colour.
 ![image alt](https://github.com/priyanshu12pg/Colour-Shape-Game-/blob/aaf9dbbb28f471a3acf113f91aec65a79edfd71b/Screenshot%202025-07-28%20212417.png)
 Diamond is for Green colour.
-
+[image alt]()
