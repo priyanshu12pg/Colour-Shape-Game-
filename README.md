@@ -4,5 +4,6 @@ When we hover cursor on a shape we able to a colour and when the cursor goes awa
 Every shape have a different colour as we can see in image.
 ![image alt](https://github.com/priyanshu12pg/Colour-Shape-Game-/blob/37839e10a7377bf74bbdbca462ccf1785edb3738/Screenshot%202025-07-28%20210926.png)
 Square box is for Blue colour.
-![image alt]()
+![image alt](https://github.com/priyanshu12pg/Colour-Shape-Game-/blob/423aa1b3f0448bb848f6c61106d0a42682b12259/Screenshot%202025-07-28%20212417.png)
+Diamond is for Green colour.
 
