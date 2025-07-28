@@ -8,4 +8,4 @@ Square box is for Blue colour.
 Diamond is for Green colour,
 [image alt](https://github.com/priyanshu12pg/Colour-Shape-Game-/blob/c9052f6a6578718205ba3790d5083f8e75560339/Screenshot%202025-07-28%20213340.png)
 and the last circle is for red 
-[image alt]()
+
